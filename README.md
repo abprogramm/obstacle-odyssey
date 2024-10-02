@@ -46,3 +46,22 @@
    java Main
    ```
 
+## Usage
+
+Once the game is compiled and running, you can start playing **Obstacle Odyssey**:
+
+1. **Start the Game**: Upon launching the game, you'll be presented with the first level. Use your keyboard to control the player character.
+   
+2. **Controls**:
+   - **Arrow Keys**: Move your character up, down, left, or right to navigate through the level.
+   
+3. **Objective**: 
+   - Avoid hitting any obstacles.
+   - Reach the correct (green) box at the end of each level to advance to the next stage.
+   - Collect coins scattered throughout each level to increase your score.
+
+4. **Levels**:
+   - As you progress through levels, the difficulty increases with more challenging obstacles and more complex paths.
+   
+5. **End of the Game**:
+   - Once you complete the final level, your score is displayed based on the number of coins you collected.
